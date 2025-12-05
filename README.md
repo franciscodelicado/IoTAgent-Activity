@@ -88,7 +88,7 @@ para un **```driver```**:
 Se proporciona un repositorio de GitHub con los scripts base para la actividad. Para descargarlo, ejecutar los siguientes comandos en una terminal:
 
 ```bash
-git clone https://github.com/francisco.delicado/IoTAgent-Activity.git
+git clone https://github.com/franciscodelicado/IoTAgent-Activity.git
 cd IoTAgent-Activity
 ```
 
