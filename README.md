@@ -127,7 +127,7 @@ Se ha de entregar lo siguiente:
 - El script **```f1_car_mqtt.py```** con la implementación del envío de datos vía MQTT y la respuesta a los comandos de activación/desactivación del DRS.
 - El script **```drs_controller.py```** con la implementación de la lógica de activación/desactivación del DRS.
 - El fichero **```requirements.txt```** con las dependencias necesarias para ejecutar los scripts de python (por si se han añadido nuevas dependencias).
-- Un fichero con los comandos HTTP utilizados para configurar el IoT Agent MQTT-UltraLight y Orion con las entidades, servicios y dispositivos necesarios para la comunicación. El fichero puede ser: 
+- Un fichero con las peticiones HTTP utilizadas para configurar el IoT Agent MQTT-UltraLight y Orion con las entidades, servicios y dispositivos necesarios para la comunicación. El fichero puede ser: 
    - Un script bash con comandos curl.
    - Un fichero con extensión `.http`  con las peticiones HTTP (si se ha utilizado la extensión REST Client de VsCode).
    - O, una colección exportada de Postman (si se ha utilizado Postman).
