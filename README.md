@@ -113,7 +113,7 @@ donde:
 - _README.md_: es el fichero que se está leyendo, con las instrucciones para realizar la actividad.
 - _services_: es un script para lanzar y detener los contenedores de Docker.
 - _scripts/_: es la carpeta que contiene los scripts de python para la actividad, y el fichero de dependencias `requirements.txt`.
-- _data/telemetry_VER.csv_: es un fichero con datos de telemetría real del piloto Max Verstappen en el gran premio de Mónaco de 2021. Este fichero se puede usar para simular el envío de datos reales del coche de F1 a FIWARE.
+- _data/telemetry_VER.csv_: es un fichero con datos de telemetría real del piloto Max Verstappen en el gran premio de Cataluña de 2024. Este fichero se puede usar para simular el envío de datos reales del coche de F1 a FIWARE.
 
 ### Instalación de dependencias Python
 
